@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao perfil do Marcos Henrique da Silva 😁
+Bem-vindo(a) ao meu perfil , me chamo Marcos Henrique da Silva e aqui apresento o que venho aprendendo na minha jornada como programador!
 
 <div>
    <a href="https://github.com/MarcosHenriquedaSilva">
